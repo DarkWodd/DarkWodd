@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on [Google](https://github.com/google)
+- 👯 I’m looking to collaborate on **[Google](https://github.com/google)**
 
-- 👨‍💻 All of my projects are available at [Tab Repo In Github](https://github.com/DarkWodd?tab=repositories)
+- 👨‍💻 All of my projects are available at **[Tab Repo In Github](https://github.com/DarkWodd?tab=repositories)**
 
 - 💬 Ask me about **electron**
 
