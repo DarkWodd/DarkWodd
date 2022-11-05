@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Google](https://github.com/google)
 
-- 👨‍💻 All of my projects are available at [https://github.com/DarkWodd](https://github.com/DarkWodd)
+- 👨‍💻 All of my projects are available at [https://github.com/DarkWodd?tab=repositories](https://github.com/DarkWodd?tab=repositories)
 
 - 💬 Ask me about **electron**
 
